@@ -1,0 +1,13 @@
+title: "Console Theme"
+description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+baseurl: ""
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+style: dark #Can be "light", "dark" or hacker
+
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
